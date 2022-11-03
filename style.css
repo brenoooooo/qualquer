@@ -1,0 +1,73 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #d3d0df;
+}
+
+.container{
+    width: 1000px;
+    display: flex;
+    padding: 75px 200px 75px 350px;
+}
+
+.cadastro{
+    width: 500px;
+    background-color: #FFF;
+    padding: 90px 50px;
+
+}
+
+
+.login{
+    width: 500px;
+    background-color: #f3f5f9;
+    padding: 180px 50px;
+}
+
+.login h1{
+    text-align: center;
+}
+
+.login button{
+    margin: 20px 0px 20px 95px;
+    padding: 10px 126px 10px 120px;
+    border: #7e56d8;
+    background-color: #7e56d8;
+    color: #FFF;
+}
+
+input[type="checkbox"]{
+    margin:  20px 0px 0px 95px;
+}
+
+input[type="text"] {
+    margin: 0px 95px;
+    padding: 8px;
+    width: 288px;
+    border: #BCBCCE solid;
+}
+
+h1{
+    color: #7e56d8;
+    font-size: 25px;
+    margin: 20px 95px;
+}
+
+h3{
+    color: #121b2a;
+    margin: 20px 95px;
+    text-align: center;
+}
+
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 6px 95px;
+    color: #BCBCCE;
+}
+
+button{
+    margin: 20px 0px 20px 95px;
+    padding: 10px 134px 10px 120px;
+    border: #7e56d8;
+    background-color: #7e56d8;
+    color: #FFF;
+}
